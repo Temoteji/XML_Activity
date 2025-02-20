@@ -1,0 +1,47 @@
+<movies>
+    <movie>
+        <Title>The Godfather</Title>
+        <Year>1972</Year>
+        <Genre>Drama, Crime</Genre>
+        <Director>Francis Ford Coppola</Director>
+        <Summary>Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone barely survives an attempt on his life, his youngest son, Michael steps in to take care of the would-be killers, launching a campaign of bloody revenge.</Summary>
+        <Poster>https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bhkrj58Vtu7enYsRolD1fZdja1.jpg</Poster>
+        <Trailer>https://www.youtube.com/embed/UaVTIH8mujA</Trailer>
+    </movie>
+    <movie>
+        <Title>The Godfather Part II</Title>
+        <Year>1974</Year>
+        <Genre>Drama, Crime</Genre>
+        <Director>Francis Ford Coppola</Director>
+        <Summary>In the continuing saga of the Corleone crime family, a young Vito Corleone grows up in Sicily and in 1910s New York. In the 1950s, Michael Corleone attempts to expand the family business into Las Vegas, Hollywood and Cuba.</Summary>
+        <Poster>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg</Poster>
+        <Trailer>https://www.youtube.com/embed/9O1Iy9od7-A</Trailer>
+    </movie>
+    <movie>
+        <Title>INVINCIBLE</Title>
+        <Year>2021</Year>
+        <Genre>Animation, Sci-Fi, Fantasy, Action, Adventure, Drama</Genre>
+        <Director>Robert Kirkman</Director>
+        <Summary>Mark Grayson is a normal teenager except for the fact that his father is the most powerful superhero on the planet. Shortly after his seventeenth birthday, Mark begins to develop powers of his own and enters into his father’s tutelage.</Summary>
+        <Poster>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jBn4LWlgdsf6xIUYhYBwpctBVsj.jpg</Poster>
+        <Trailer>https://www.youtube.com/embed/-bfAVpuko5o</Trailer>
+    </movie>
+    <movie>
+        <Title>Pantheon</Title>
+        <Year>2022</Year>
+        <Genre>Animation, Sci-Fi, Fantasy</Genre>
+        <Director>Craig Silverstein</Director>
+        <Summary>A bullied teen receives mysterious help from someone online: a stranger soon revealed to be her recently deceased father, David, whose consciousness has been uploaded to the Cloud following an experimental destructive brain scan. David is the first of a new kind of being – an “Uploaded Intelligence” or “UI” – but he will not be the last, as a global conspiracy unfolds that threatens to trigger a new kind of world war.</Summary>
+        <Poster>https://image.tmdb.org/t/p/w600_and_h900_bestv2/aZupC6eJhTe82e5I0JRaOBjFHOd.jpg</Poster>
+        <Trailer>https://www.youtube.com/embed/z_HJ3TSlo5c</Trailer>
+    </movie>
+    <movie>
+        <Title>Dead Poets Society</Title>
+        <Year>1989</Year>
+        <Genre>Comedy, Drama</Genre>
+        <Director>Peter Weir</Director>
+        <Summary>At an elite, old-fashioned boarding school in New England, a passionate English teacher inspires his students to rebel against convention and seize the potential of every day, courting the disdain of the stern headmaster.</Summary>
+        <Poster>https://image.tmdb.org/t/p/w600_and_h900_bestv2/l5NbiHKUmahlAT3Q1ig8Tyl9xrc.jpg</Poster>
+        <Trailer>https://www.youtube.com/embed/ye4KFyWu2do</Trailer>
+    </movie>
+</movies>
